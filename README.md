@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rohit Mondal
-- 👀 I’m interested in Web Development and Machine learning
-- 🌱 I’m currently learning DSA and Web dev
-- 📫 Reach me on  Twitter - @RohitMo62534745 (https://twitter.com/RohitMo62534745)  and Instagram - @rohitmondallll (https://www.instagram.com/rohitmondallll/)
-
+-  Hi, this is Rohit Mondal
+-  Interested in Frontend and Web 3.0 (blockchain) development
+-  I have a vast knowledge of frontend tech stacks such as ReactJS, Bootstrap, Tailwind CSS, Material UI and jQuery.
+-  Currently focusing myself on Data structures and algorithms and blockchain development
+-  Linkedin profile- https://www.linkedin.com/in/rohit-mondal-61662a16b/
