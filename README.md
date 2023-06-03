@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitmo62534745" target="blank"><img src="https://img.shields.io/twitter/follow/rohitmo62534745?logo=twitter&style=for-the-badge" alt="rohitmo62534745" /></a> </p>
 
-- 🌱 I’m currently learning **flutter and blockchain development**
+- 🌱 I’m currently learning **Typescript and Redux**
 
 - 🤝 I’m looking for help with **open source contributions**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://rohitmondallblog.hashnode.dev/](https://rohitmondallblog.hashnode.dev/)
 
-- 💬 Ask me about **react, Javascript**
+- 💬 Ask me about **ReactJS, Javascript**
 
 - 📫 How to reach me **rohitmondall8000@gmail.com**
 
