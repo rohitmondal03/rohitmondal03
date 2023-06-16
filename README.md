@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Mondal</h1>
-<h3 align="center">A passionate frontend developer, mobile app developer and blockchain developer</h3>
+<h3 align="center">A passionate frontend developer having knowledge of latest tech stacks of used in the domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmondal03&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmondal03" /> </p>
 
