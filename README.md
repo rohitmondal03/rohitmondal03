@@ -10,9 +10,9 @@ I'm a Frontend developer having experience in building rich and user interactive
 * 🖥️  See my portfolio at [https://portfolio-ten-virid-46.vercel.app/](http://portfolio-ten-virid-46.vercel.app/)
 * ✉️  You can contact me at [rohitmondall8000@gmail.com](mailto:rohitmondall8000@gmail.com)
 * 🚀  I'm currently working on [BioSync](http://github.com/rohitmondal03/Bio-Sync)
-* 🧠  I'm learning Socket.io
+* 🧠  I'm learning Socket.io and Redux
 * 🤝  I'm open to collaborating on Open Source projects
-* ⚡  Secretly listening to amazing Spotify playlists.....
+* ⚡  Secretly listening to [this playlist](https://open.spotify.com/playlist/0VVyMZ8DiyCT2M1D8G1WlZ)
 
 ### Skills
 
