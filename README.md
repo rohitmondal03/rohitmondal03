@@ -9,7 +9,7 @@ I'm a Frontend developer having experience in building rich and user interactive
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://portfolio-ten-virid-46.vercel.app/](http://portfolio-ten-virid-46.vercel.app/)
 * ✉️  You can contact me at [rohitmondall8000@gmail.com](mailto:rohitmondall8000@gmail.com)
-* 🚀  I'm currently working on [BioSync](http://github.com/rohitmondal03/Bio-Sync)
+* 🚀  I'm currently working on [AppliZen](http://github.com/rohitmondal03/AppliZen)
 * 🧠  I'm learning Jotai and State Management
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  Secretly listening to [this playlist](https://open.spotify.com/playlist/0VVyMZ8DiyCT2M1D8G1WlZ)
