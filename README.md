@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Mondal
 ====================================================================================================================================
 
-Frontend (ReactJS) Developer
+Frontend focused Full-Stack Developer
 ----------------------------
 
 I'm a Frontend developer having experience in building rich and user interactive web interface with ReactJS and NextJS and integrating it with TypeScript. I've developed projects using Prisma as an ORM for writing querries to database. Apart from these, I have worked with TailwindCSS for styling and Shadcn UI library for integrating pre-made components in my projects.
