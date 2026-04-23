@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Mondal
 ====================================================================================================================================
 
-Frontend focused Full-Stack Developer
+Frontend-focused Full-Stack Developer
 ----------------------------
 
-I'm a Frontend developer having experience in building rich and user interactive web interface with ReactJS and NextJS and integrating it with TypeScript. I've developed projects using Prisma as an ORM for writing querries to database. Apart from these, I have worked with TailwindCSS for styling and Shadcn UI library for integrating pre-made components in my projects.
+I'm a Frontend-focused Full-Stack developer, with experience in building rich and user-interactive web interfaces with ReactJS/NextJS and integrating it with TypeScript. I've developed projects using Prisma & Drizzle as an ORM for writing queries to the database. Apart from these, I have worked with TailwindCSS for styling and Shadcn UI library & other component's library for integrating pre-made components in my projects.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://portfolio-ten-virid-46.vercel.app/](http://portfolio-ten-virid-46.vercel.app/)
+* 🖥️  See my portfolio at [https://rohit-og-portfolio.vercel.app/](http://rohit-og-portfolio.vercel.app/)
 * ✉️  You can contact me at [rohitmondall8000@gmail.com](mailto:rohitmondall8000@gmail.com)
-* 🚀  I'm currently working on [AppliZen](http://github.com/rohitmondal03/AppliZen)
+* 🚀  I'm currently working on [URLab](http://github.com/rohitmondal03/urlab) and [Konfig](http://github.com/rohitmondal03/konfig)
 * 🧠  I'm learning Jotai and State Management
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  Secretly listening to [this playlist](https://open.spotify.com/playlist/0VVyMZ8DiyCT2M1D8G1WlZ)
