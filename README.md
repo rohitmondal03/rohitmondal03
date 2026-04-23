@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Mondal</h1>
 <h3 align="center">A passionate Frontend-focused Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://rohit-og-portfolio.vercel.app/_next/image?url=%2Fprofile.jpg&w=256&q=75" alt="rohitmondal03" /></a> </p>
-
 - 🔭 I’m currently working on [konfig](https://github.com/rohitmondal03/konfig) and [URLab](https://github.com/rohitmondal03/urlab)
 
 - 🌱 I’m currently learning **backend development**
